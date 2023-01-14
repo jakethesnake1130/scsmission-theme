@@ -19,3 +19,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- exampleSite/content/english/course/self-knowledge-n-sheit.md
