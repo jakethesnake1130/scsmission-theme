@@ -1,6 +1,6 @@
 ---
 slider:
-  enable: false
+  enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
   - title: Your bright future is our mission
@@ -34,7 +34,7 @@ slider:
       label: Apply now
       link: contact/
 banner_feature:
-  enable: true
+  enable: false
   image: images/banner/banner-feature.png
   feature_item:
   - name: Scholorship News
