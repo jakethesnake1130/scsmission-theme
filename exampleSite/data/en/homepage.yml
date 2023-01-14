@@ -34,7 +34,7 @@ slider:
       label: Apply now
       link: contact/
 banner_feature:
-  enable: false
+  enable: true
   image: images/banner/banner-feature.png
   feature_item:
   - name: Scholorship News
@@ -92,7 +92,7 @@ event:
   enable: true
   title: Upcoming Events
 funfacts:
-  enable: true
+  enable: false
   funfact_item:
   - name: TEACHERS
     count: "60"
