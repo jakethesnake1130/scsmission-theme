@@ -69,10 +69,10 @@ about:
     label: Learn more
     link: about/
 course:
-  enable: true
+  enable: false
   title: Our Course
 cta:
-  enable: true
+  enable: false
   subtitle: Click to Join the Advance Workshop
   title: Training In Advannce Networking
   button:
@@ -80,7 +80,7 @@ cta:
     label: join now
     link: contact/
 success_story:
-  enable: true
+  enable: false
   bg_image: images/backgrounds/success-story.jpg
   title: Success Stories
   content: |-
