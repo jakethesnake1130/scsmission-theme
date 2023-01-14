@@ -6,3 +6,4 @@ image = "/images/course-5.jpg"
 title = "Self Knowledge N Sheit"
 
 +++
+Zoo Wee Mama!
