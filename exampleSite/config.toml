@@ -24,7 +24,7 @@ name = "course"
 url = "course/"
 weight = 2
 [[Languages.en.menu.main]]
-name = "event"
+name = "events"
 url = "event/"
 [[Languages.en.menu.main]]
 name = "blog"
