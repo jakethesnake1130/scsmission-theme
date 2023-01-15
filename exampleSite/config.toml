@@ -24,29 +24,8 @@ name = "course"
 url = "course/"
 weight = 2
 [[Languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
-[[Languages.en.menu.main]]
-name = "teacher"
-parent = "Pages"
-url = "teacher/"
-[[Languages.en.menu.main]]
-name = "notice"
-parent = "Pages"
-url = "notice/"
-[[Languages.en.menu.main]]
 name = "event"
-parent = "Pages"
 url = "event/"
-[[Languages.en.menu.main]]
-name = "scholarship"
-parent = "Pages"
-url = "scholarship/"
-[[Languages.en.menu.main]]
-name = "research"
-parent = "Pages"
-url = "research/"
 [[Languages.en.menu.main]]
 name = "blog"
 url = "blog/"
