@@ -3,7 +3,9 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Your bright future is our mission
+  - title: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
+      exer
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
       exer
@@ -55,7 +57,7 @@ banner_feature:
       tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
 about:
   enable: true
-  title: About Educenter
+  title: About Our Mission
   image: images/about/about-us.jpg
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
