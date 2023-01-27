@@ -19,3 +19,7 @@ fields:
 - type: file
   name: image
   label: image
+<<<<<<< HEAD:exampleSite/.forestry/front_matter/templates/kirtan.yml
+=======
+pages:
+>>>>>>> b07f033 (Changing 'Courses' to 'Kirtans'):exampleSite/.forestry/front_matter/templates/course.yml
