@@ -23,14 +23,14 @@ sections:
   templates:
   - author
 - type: heading
-  label: Course
+  label: Kirtan
 - type: directory
-  path: exampleSite/content/english/course
-  label: Course
+  path: exampleSite/content/english/kirtan
+  label: Kirtan
   create: documents
   match: "**/*"
   templates:
-  - course
+  - kirtan
 - type: heading
   label: Notice
 - type: directory

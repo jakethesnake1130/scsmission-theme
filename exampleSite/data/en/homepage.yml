@@ -70,9 +70,9 @@ about:
     enable: true
     label: Learn more
     link: about/
-course:
+kirtan:
   enable: false
-  title: Our Course
+  title: Our Kirtan
 cta:
   enable: false
   subtitle: Click to Join the Advance Workshop

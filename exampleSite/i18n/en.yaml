@@ -46,8 +46,8 @@
 - id: category
   translation: Category
 
-- id: related_course
-  translation: Related Course
+- id: related_kirtan
+  translation: Related Kirtan
 
 - id: duration
   translation: duration
@@ -85,8 +85,8 @@
 - id: links
   translation: links
 
-- id: courses
-  translation: Courses
+- id: kirtans
+  translation: Kirtans
 
 - id: new_notice
   translation: new notice

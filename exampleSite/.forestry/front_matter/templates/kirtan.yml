@@ -1,5 +1,5 @@
 ---
-label: Course
+label: Kirtan
 hide_body: false
 fields:
 - type: text
@@ -20,5 +20,3 @@ fields:
   name: image
   label: image
 pages:
-- exampleSite/content/english/course/is-this-shit-busted.md
-- exampleSite/content/english/course/self-knowledge-n-sheit.md
