@@ -3,7 +3,7 @@ disableLanguages = []
 disqusShortname = "SCS-SLC"
 paginate = "6"
 summaryLength = "10"
-theme = "educenter-hugo"
+theme = "scsmission-theme"
 title = "Sri Caitanya Saraswat Mission | Salt Lake City"
 [Languages.en]
 contentDir = "content/english"
