@@ -1,15 +1,17 @@
-+++
-author = "Jake"
-bg_image = ""
-categories = ["Good"]
-date = 2023-02-04T07:00:00Z
-description = "Does this work? Let's find out!"
-image = "/images/mahaprabhu-1.png"
-tags = ["Nice"]
-title = "Hello?"
-type = "post"
+---
+title: Hello?
+date: 2025-01-02T07:00:00.000Z
+bg_image: /images/mahaprabhu-2.png
+image: /images/mahaprabhu-1.png
+author: Jayadev Das
+description: this is a test
+categories:
+  - test
+tags:
+  - test
+type: post
+---
 
-+++
 Hello and welcome to the number one post on this website.
 
 Hare Krishna Hare Krishna Krishna Krishna Hare Hare

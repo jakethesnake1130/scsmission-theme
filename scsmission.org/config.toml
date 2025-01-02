@@ -6,7 +6,7 @@ summaryLength = "10"
 theme = "scsmission-theme"
 title = "Sri Caitanya Saraswat Mission | Salt Lake City"
 [Languages.en]
-contentDir = "content/english"
+contentDir = "content"
 copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
 home = "Home"
 languageCode = "en-us"
