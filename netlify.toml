@@ -1,6 +1,6 @@
 [build]
   publish = "scsmission.org/public"
-  command = "cd scsmission.org && npx tinacms build -c \"hugo server --minify --gc --themesDir ../..\""
+  command = "cd scsmission.org && npm install && npx tinacms build -c \"hugo --minify --gc --themesDir ../..\""
   
 [build.environment]
   HUGO_VERSION = "0.73.0"
